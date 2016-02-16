@@ -28,6 +28,6 @@ test.txt
 
 >Find two other relative links and add those to the Readme.md as well.
 
-[Main Readme](lrthw_exercises/Readme.md)
+[Main Readme](../../lrthw_exercises/Readme.md)
 
 [Test Text](mystuff/test.txt)
