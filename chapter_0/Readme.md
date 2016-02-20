@@ -20,9 +20,9 @@ test.txt
 ##Questions
 >Provide a link in your Readme.md that links to the documentation for the following classes:
 
-[Array](http://docs.ruby-lang.org/en/2.0.0/Array.html)
+[Array](http://ruby-doc.org/core-2.2.4/Array.html)
 
-[Hash](http://docs.ruby-lang.org/en/2.0.0/Hash.html)
+[Hash](http://ruby-doc.org/core-2.2.4/Hash.html)
 
 [Chronic Rubygem](https://github.com/mojombo/chronic)
 
