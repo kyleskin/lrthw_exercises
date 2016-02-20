@@ -31,3 +31,16 @@ test.txt
 [Main Readme](../Readme.md)
 
 [Test Text](mystuff/test.txt)
+
+##Guard Output
+```
+(113796109_chapter_0_master) Kyle Skinner
+Kyle:lrthw_exercises $ guard
+08:20:18 - INFO - Inspecting Ruby code style of all files
+Inspecting 1 file
+.
+
+1 file inspected, no offenses detected
+08:20:19 - INFO - Guard is now watching at '/Users/skinner/workspace/davinci_coders_t1_2016/homework/lrthw_exercises'
+[1] guard(main)>
+```
