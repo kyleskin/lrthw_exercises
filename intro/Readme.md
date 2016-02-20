@@ -1,13 +1,15 @@
 #Questions:
 >What are the three most essential skills that a beginner programmer needs to know?
 
-1. Go through each exercise.
-2. Type in each sample *exactly*.
-3. Make it run.
+1. Reading & Writing
+2. Attention to Detail
+3. Spotting Differences
 
 >Please explain these three skills in your own words.
 
-I think I can sum up those three skills with one basic mantra: **Don't Be Lazy**.  Although we keep hearing that a good programmer is a lazy programmer, I think that learning a new language means not taking shortcuts and cheating yourself of practice.  It means putting in the work to actually type everything out, think about what I'm typing, and make sure that it works correctly.
+1. It's important to be able to type everything out to get used to typing the odd characters that coding uses.
+2. You must pay attention to everything you're being asked to type and reproduce to ensure that you have not missed any of the elements because that will make the program not run correctly.
+3. As you're typing, you're bound to make a few mistakes.  Being able to spot the differences means it will be easier to identify where your mistakes are to be able to fix them.
 
 >Why do you need to not copy and paste?
 
