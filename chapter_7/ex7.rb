@@ -1,4 +1,4 @@
-#! /usr/bin/env ruby
+#!/usr/bin/env ruby
 
 # lines 4-7 output each string on a new line
 puts 'Mary had a little lamb.'
