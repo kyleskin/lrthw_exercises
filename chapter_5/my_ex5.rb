@@ -9,13 +9,13 @@ teeth = 'White'
 hair = 'Brown'
 # converting weight to kilos
 weight_in_kilos = weight / 2.21
-# changing height into feet & inches
-height_in_feet_and_inches = ("#{(height / 12)} feet " + "and #{(height % 12)} inches")
+# changing height into centimeters
+height_in_centimeters = height * 2.54
 
 
 puts "Let's talk about #{name}"
 puts "He's #{height} inches tall."
-puts "That's #{height_in_feet_and_inches}."
+puts "That's #{height_in_centimeters} in centimeters."
 puts "He's #{weight} pounds heavy."
 puts "(#{weight_in_kilos.round(2)} in kilos)"
 puts "Actually that's not too heavy."
