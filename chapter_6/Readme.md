@@ -20,11 +20,11 @@ See ex6.rb
 
 >Find all the places where a string is put inside a string. There are four places.
 
-See ex6.rb lines: 6, 12, 20, 22, 27.
+See ex6.rb lines: 12 (two places on this line), 20, 22.
 
 >Are you sure there are only four places? How do you know? Maybe I like lying.
 
-There are 6 instances of interpolation
+There are 6 instances of interpolation, but only 4 of them are of a string into another string.  One is an integer and another is a boolean.
 
 >Explain why adding the two strings w and e with + makes a longer string.
 
